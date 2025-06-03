@@ -1,0 +1,22 @@
+21
+admin#admin#Quan Li#1
+QL01#Tran Gia Bao#Quan Li#ql01
+QL02#Tran Duong Gia Bao#Quan Li#ql02
+NV01#Nguyen Ngoc Chau#Nhan Vien#nv01
+NV02#Nguyen The Anh#Nhan Vien#nv02
+NV03#Ly Vinh Duc#Nhan Vien#nv03
+NV04#Tran Minh Tuan#Nhan Vien#nv04
+NV05#Le Thi Hoa#Nhan Vien#nv05
+NV06#Pham Van Long#Nhan Vien#nv06
+NV07#Do Thi Mai#Nhan Vien#nv07
+NV08#Nguyen Van Khoa#Nhan Vien#nv08
+NV09#Hoang Thi Lan#Nhan Vien#nv09
+NV10#Bui Van Nam#Nhan Vien#nv10
+NV11#Dang Thi Huong#Nhan Vien#nv11
+NV12#Trinh Van Quang#Nhan Vien#nv12
+NV13#Vo Thi Bich#Nhan Vien#nv13
+NV14#Nguyen Huu Thang#Nhan Vien#nv14
+NV15#Pham Thi Tuyet#Nhan Vien#nv15
+NV16#Le Van Tien#Nhan Vien#nv16
+NV17#Nguyen Thi Dung#Nhan Vien#nv17
+NV18#Nguyen Thi Dinh#Nhan Vien#nv18
