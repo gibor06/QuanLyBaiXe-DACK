@@ -116,7 +116,7 @@ Password: 1
 ## 1. Clone project từ GitHub
 
 ```bash
-git clone https://github.com/your-username/parking-management-system.git
+git clone https://github.com/gibor06/parking-management-system.git
 ```
 
 Sau đó vào thư mục project:
